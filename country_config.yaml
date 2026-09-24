@@ -1,0 +1,41 @@
+# JAN-SARTHI AI: Sovereign Jurisdiction & Country Configuration Matrix
+# Allows deployment across BRICS member states without code refactoring
+
+country_profiles:
+  IN:
+    country_name: "India"
+    currency: "INR"
+    primary_languages: ["Hindi", "English", "Bengali", "Tamil", "Marathi", "Telugu"]
+    administrative_levels: ["State", "District", "Tehsil", "Gram Panchayat / Municipal Ward"]
+    identity_dpi: "Aadhaar / MOSIP (OIDC / W3C VC)"
+    privacy_framework: "Digital Personal Data Protection Act (DPDP Act 2023)"
+    national_grievance_portal: "CPGRAMS / Bhashini"
+    infrastructure_priorities: ["Water", "Roads", "Healthcare", "Electricity", "Sanitation"]
+    representation_bias_correction: true
+    min_access_floor: 0.05
+
+  BR:
+    country_name: "Brazil"
+    currency: "BRL"
+    primary_languages: ["Portuguese", "Guarani", "Tikuna", "English"]
+    administrative_levels: ["State", "Mesoregion", "Municipality", "District"]
+    identity_dpi: "Cadastro de Pessoas Físicas (CPF) / Gov.br"
+    privacy_framework: "Lei Geral de Proteção de Dados (LGPD)"
+    national_grievance_portal: "Fala.BR (Ouvidoria-Geral da União)"
+    infrastructure_priorities: ["Sanitation", "Transport Corridors", "Renewable Energy", "Public Health"]
+    representation_bias_correction: true
+    min_access_floor: 0.05
+
+  ZA:
+    country_name: "South Africa"
+    currency: "ZAR"
+    primary_languages: ["isiZulu", "isiXhosa", "Afrikaans", "English", "Sepedi"]
+    administrative_levels: ["Province", "District Municipality", "Local Municipality", "Ward"]
+    identity_dpi: "National Smart Identity / MOSIP"
+    privacy_framework: "Protection of Personal Information Act (POPIA)"
+    national_grievance_portal: "Presidential Hotline"
+    infrastructure_priorities: ["Grid Stability / Electricity", "Water Security", "Public Transport"]
+    representation_bias_correction: true
+    min_access_floor: 0.05
+
+active_profile: "IN"

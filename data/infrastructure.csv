@@ -1,0 +1,13 @@
+ward_id,ward_name,category,asset_type,operational_capacity_pct,deficit_score,distance_to_nearest_facility_km,status,source
+WARD-01,Rampur Rural,Water,Tube Wells & Overhead Tank,32.0,0.78,14.5,SIMULATED,State Water Board 2026
+WARD-01,Rampur Rural,Healthcare,Primary Health Sub-Center,40.0,0.7,18.2,SIMULATED,District Health Office
+WARD-01,Rampur Rural,Roads,Unpaved Arterial Link,25.0,0.82,8.0,SIMULATED,PWD Rural Roads
+WARD-02,Anand Vihar Urban,Roads,Secondary Paved Road,85.0,0.2,1.2,SIMULATED,Municipal Corp
+WARD-02,Anand Vihar Urban,Waste Management,Waste Segregation Center,50.0,0.52,2.5,SIMULATED,Sanitation Board
+WARD-03,Sitapur Industrial,Electricity,11kV Distribution Substation,45.0,0.65,5.4,SIMULATED,Power Discom
+WARD-03,Sitapur Industrial,Sanitation,Industrial Drainage Trunk,30.0,0.75,3.8,SIMULATED,Pollution Control Board
+WARD-04,Subhash Nagar Peri-Urban,Education,Government Senior Secondary,55.0,0.48,4.1,SIMULATED,Education Dept
+WARD-04,Subhash Nagar Peri-Urban,Water,Municipal Piped Line,60.0,0.45,3.2,SIMULATED,Jal Sansthan
+WARD-05,Kalyanpur Tribal Belt,Water,Community Borewells,20.0,0.88,22.0,SIMULATED,Tribal Welfare Dept
+WARD-05,Kalyanpur Tribal Belt,Healthcare,Community Dispensary,15.0,0.92,26.5,SIMULATED,State Health Mission
+WARD-06,Central Metro Core,Public Transport,City Bus Terminal & Metro Link,90.0,0.15,0.8,SIMULATED,Urban Transport Authority
