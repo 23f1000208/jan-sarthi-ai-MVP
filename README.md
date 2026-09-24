@@ -4,7 +4,6 @@ You can copy and paste this directly into a file named **`README.md`** in your p
 
 ---
 
-```markdown
 # JAN-SARTHI AI (जन-सारथी AI)
 ### Multilingual AI Citizen Feedback & Infrastructure Prioritization Platform
 
@@ -42,7 +41,7 @@ Governments struggle to consolidate fragmented citizen feedback across diverse r
 
 ## 🏛️ System Architecture
 
-```mermaid
+
 flowchart TD
     subgraph Ingestion["1. Ingestion & Security Boundary"]
         A1["Citizen Input: Web / WhatsApp / IVR / SMS"] --> B1["Prompt-Injection Scanner"]
