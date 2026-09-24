@@ -1,4 +1,3 @@
----
 
 ```markdown
 # JAN-SARTHI AI (जन-सारथी AI)
@@ -86,7 +85,7 @@ flowchart TD
     end
 ```
 
----
+
 
 ## 📊 Priority Scoring Methodology (MCDA)
 
