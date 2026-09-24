@@ -1,3 +1,6 @@
+---
+
+```markdown
 # JAN-SARTHI AI (जन-सारथी AI)
 ### Multilingual AI Citizen Feedback & Infrastructure Prioritization Platform
 
@@ -81,6 +84,9 @@ flowchart TD
         H1 --> H2["Official Review: Verify / Challenge / Re-weight"]
         H2 --> H3["Immutable Audit Ledger & Action Dispatch"]
     end
+```
+
+---
 
 ## 📊 Priority Scoring Methodology (MCDA)
 
