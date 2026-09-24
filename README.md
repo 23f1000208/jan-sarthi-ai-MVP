@@ -1,9 +1,3 @@
-Here is the complete, competition-grade **`README.md`** text for your project. 
-
-You can copy and paste this directly into a file named **`README.md`** in your project root or create/edit it directly on GitHub:
-
----
-
 # JAN-SARTHI AI (जन-सारथी AI)
 ### Multilingual AI Citizen Feedback & Infrastructure Prioritization Platform
 
@@ -41,7 +35,7 @@ Governments struggle to consolidate fragmented citizen feedback across diverse r
 
 ## 🏛️ System Architecture
 
-
+```mermaid
 flowchart TD
     subgraph Ingestion["1. Ingestion & Security Boundary"]
         A1["Citizen Input: Web / WhatsApp / IVR / SMS"] --> B1["Prompt-Injection Scanner"]
@@ -87,9 +81,6 @@ flowchart TD
         H1 --> H2["Official Review: Verify / Challenge / Re-weight"]
         H2 --> H3["Immutable Audit Ledger & Action Dispatch"]
     end
-```
-
----
 
 ## 📊 Priority Scoring Methodology (MCDA)
 
